@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>  
+       <color name="defultbg">#000000</color>
+        <color name="changebg">#0000FF</color>
+
+</resources>
